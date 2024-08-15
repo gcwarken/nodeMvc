@@ -1,3 +1,7 @@
+# Ignora configs de verdade, track os exemplos
+config/*
+!config/exemplo*
+
 # Logs
 logs
 *.log
