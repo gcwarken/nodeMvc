@@ -1,0 +1,31 @@
+{
+  "name": "nodemvc",
+  "version": "1.0.0",
+  "description": "NodeJS MVC template",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcwarken/nodeMvc.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "gcwarken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcwarken/nodeMvc/issues"
+  },
+  "homepage": "https://github.com/gcwarken/nodeMvc#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0"
+  }
+}
