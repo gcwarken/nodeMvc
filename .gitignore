@@ -1,4 +1,4 @@
-# Ignora configs de verdade, track os exemplos
+# Ignore real configs, track config examples
 config/*
 !config/exemplo*
 
