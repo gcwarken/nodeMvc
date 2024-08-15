@@ -1,6 +1,6 @@
 # Ignore real configs, track config examples
 config/*
-!config/exemplo*
+!config/example*
 
 # Logs
 logs
