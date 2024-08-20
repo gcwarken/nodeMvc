@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 app.use(express.static('public'))
 
 // response handler middleware
-// app.use(require('./utils/response'));
+app.use(require('./utils/response'));
 
 // Rotas
 const routes = require('./routes')
