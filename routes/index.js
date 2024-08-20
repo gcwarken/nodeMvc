@@ -1,5 +1,5 @@
 /*
- * back/routes/index.js
+ * nodeMvc/routes/index.js
  * @description :: routes index
  */
 

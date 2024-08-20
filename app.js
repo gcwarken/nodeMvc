@@ -1,5 +1,5 @@
 /*
- * back/app.js
+ * nodeMvc/app.js
  * @description :: to start server, run `node app.js` or `npm run start`
  */
 
