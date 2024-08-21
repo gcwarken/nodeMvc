@@ -6,7 +6,7 @@
 const joi = require('joi');
 
 const getUserValid = joi.object({
-    id: joi.string().pattern(/^\d+$/).required(),
+    user_id: joi.string().pattern(/^\d+$/).required(),
 }).unknown(true);
 
 const postUserValid = joi.object({
